@@ -1,8 +1,8 @@
 # open-source-title
-What's that smell?:
+The title for my talk:
 
 ```
-Open Source Title
+What's that smell?
 ```
 
 ![slide](slide.png)
